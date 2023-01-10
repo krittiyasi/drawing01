@@ -1,0 +1,11 @@
+C:\Users\my pc\Documents\GitHub\drawing01\drawing01\drawing01\bin\Debug\drawing01.exe.config
+C:\Users\my pc\Documents\GitHub\drawing01\drawing01\drawing01\bin\Debug\drawing01.exe
+C:\Users\my pc\Documents\GitHub\drawing01\drawing01\drawing01\bin\Debug\drawing01.pdb
+C:\Users\my pc\Documents\GitHub\drawing01\drawing01\drawing01\obj\Debug\drawing01.csproj.AssemblyReference.cache
+C:\Users\my pc\Documents\GitHub\drawing01\drawing01\drawing01\obj\Debug\drawing01.csproj.SuggestedBindingRedirects.cache
+C:\Users\my pc\Documents\GitHub\drawing01\drawing01\drawing01\obj\Debug\drawing01.Form1.resources
+C:\Users\my pc\Documents\GitHub\drawing01\drawing01\drawing01\obj\Debug\drawing01.Properties.Resources.resources
+C:\Users\my pc\Documents\GitHub\drawing01\drawing01\drawing01\obj\Debug\drawing01.csproj.GenerateResource.cache
+C:\Users\my pc\Documents\GitHub\drawing01\drawing01\drawing01\obj\Debug\drawing01.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Documents\GitHub\drawing01\drawing01\drawing01\obj\Debug\drawing01.exe
+C:\Users\my pc\Documents\GitHub\drawing01\drawing01\drawing01\obj\Debug\drawing01.pdb
